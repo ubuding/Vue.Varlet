@@ -1,1 +1,1 @@
-# Vue.Vant
+# Vue.Varlet
